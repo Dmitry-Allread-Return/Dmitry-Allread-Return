@@ -1,7 +1,6 @@
 # Welcome to my GitHub! 👋
 ## :relaxed:  I'm extremely glad to see you here! =)
-
-## 😄 Everything About Me (or almost) 
+##### Everything About Me (or almost) 
 ###### :metal: My name is Dmitry and I'm 19. I study in a college in the second course.
 I've been doing web-programming for 1 year at the moment.  I was doing different projects for practice.  
 For instance: Authorization and Registration using sessions, created Restfull api, created to-do lists, personal blog and many others.  
