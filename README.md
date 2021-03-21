@@ -5,7 +5,7 @@
 I've been doing web-programming for 1 year at the moment.  I was doing different projects for practice.  
 For instance: Authorization and Registration using sessions, created Restfull api, created to-do lists, personal blog and many others.  
 The most things above it is very easy ones, that's why I didn't publish everything to my github. :see_no_evil:  
-:heart: My favorite stack for work: php-Laravel 8
+My favorite stack for work: php-Laravel 8 :heart:
 
   
 :tada: In addition I gotta one more hobby! It is **English language** although my level leaves up to be desired. I'm learning English in parallel with a programming. It is really inspires me! At present I have something between Pre-Intermediate and Intermediate level. I'm trying to become better and better every day. All my time is spending only on it. (English and Programming, of course).
