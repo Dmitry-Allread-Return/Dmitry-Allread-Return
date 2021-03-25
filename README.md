@@ -13,7 +13,7 @@ My favorite stack for work: php-Laravel 8 :heart:
 :heavy_exclamation_mark: **Necessary look at my profile in StackOveflow**:  
 https://ru.stackoverflow.com/users/406734/dmitry-allread-return  
 
-<a href="https://ru.stackoverflow.com/users/406734/dmitry-allread-return"><img src="https://ru.stackoverflow.com/users/flair/406734.png" width="208" height="58" alt="Профиль участника Dmitry_allread_return на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Dmitry_allread_return на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>  
+<a href="https://stackexchange.com/users/19509252"><img src="https://stackexchange.com/users/flair/19509252.png" width="208" height="58" alt="Профиль участника Dmitry_allread_return в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Dmitry_allread_return в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
 ****
 **Languages which I have worked**:  
 - HTML
