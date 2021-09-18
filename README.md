@@ -10,7 +10,7 @@ My favorite stack for work: php-Laravel 8 :heart:
   
 :tada: In addition I gotta one more hobby! It is a **learning English language** although my level leaves up to be desired. I'm learning English in parallel with a programming. It is really inspires me! At present I have something between Pre-Intermediate and Intermediate level. I'm trying to become better and better every day. All my free time is spending only on it. (English and Programming, of course).  
 
-:heavy_exclamation_mark: **Necessary look at my profile in StackOveflow**:  
+:heavy_exclamation_mark: **Necessary look at my profiles in StackOveflow**:  
 https://ru.stackoverflow.com/users/406734/dmitry-allread-return  
 https://stackoverflow.com/users/16422552/dmitry-allread-return  
 
