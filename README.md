@@ -15,7 +15,7 @@ https://ru.stackoverflow.com/users/406734/dmitry-allread-return
 https://stackoverflow.com/users/16422552/dmitry-allread-return  
 
 <a href="https://stackexchange.com/users/19509252"><img src="https://stackexchange.com/users/flair/19509252.png?theme=dark" width="208" height="58" alt="Профиль участника Dmitry_allread_return в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Dmitry_allread_return в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a> 
-<a href="https://stackexchange.com/users/19509252"><img src="https://stackexchange.com/users/flair/19509252.png?theme=dark" width="208" height="58" alt="profile for Dmitry_allread_return on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Dmitry_allread_return on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/16422552/dmitry-allread-return"><img src="https://stackexchange.com/users/flair/19509252.png?theme=dark" width="208" height="58" alt="profile for Dmitry_allread_return on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Dmitry_allread_return on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 ****
 **Languages which I have worked**:  
 - HTML
