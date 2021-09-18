@@ -2,7 +2,7 @@
 ## :relaxed:  I'm extremely glad to see you here!
 #### Everything About Me (or almost) 
 ###### :metal: My name is Dmitry and I'm 19. I study in a college in the second course.
-I've been doing web-programming for 1 year at the moment.  I was doing different projects for practice.  
+I've been doing web-programming for 1 year and a half at the moment.  I was doing different projects for practice.  
 For instance: Authorization and Registration using sessions, created Restfull api, created to-do lists, personal blog and many others.  
 The most things above it is very easy ones, that's why I didn't publish everything to my github. :see_no_evil:  
 My favorite stack for work: php-Laravel 8 :heart:
