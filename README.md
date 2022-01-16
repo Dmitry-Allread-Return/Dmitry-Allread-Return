@@ -1,14 +1,10 @@
 # :wave: Welcome to my GitHub!
 ## :relaxed:  I'm extremely glad to see you here!
 #### Everything About Me (or almost) 
-###### :metal: My name is Dmitry and I'm 19. I study in a college in the second course.
-I've been doing web-programming for 1 year and a half at the moment.  I was doing different projects for practice.  
-For instance: Authorization and Registration using sessions, created Restfull api, created to-do lists, personal blog and many others.  
-The most things above it is very easy ones, that's why I didn't publish everything to my github. :see_no_evil:  
-My favorite stack for work: php-Laravel 8 :heart:
+###### :metal: My name is Dmitry and I'm 20. I study in a college in the third course.
+I've been doing web-programming for almost 2 years at the moment. I was doing different web-projects.  
 
-  
-:tada: In addition I gotta one more hobby! It is a **learning English language** although my level leaves up to be desired. I'm learning English in parallel with a programming. It is really inspires me! At present I have something between Pre-Intermediate and Intermediate level. I'm trying to become better and better every day. All my free time is spending only on it. (English and Programming, of course).  
+:tada: In addition I gotta one more hobby! It is a **learning English language** although my level leaves up to be desired. I'm learning English in parallel with a programming. It is really inspires me! At present I have an Intermediate level. I'm trying to become better and better every day. All my free time is spending only on it. (English and Programming, of course).  
 
 :heavy_exclamation_mark: **Necessary look at my profiles in StackOveflow**:  
 https://ru.stackoverflow.com/users/406734/dmitry-allread-return  
