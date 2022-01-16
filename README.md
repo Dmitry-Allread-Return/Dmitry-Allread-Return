@@ -1,7 +1,7 @@
 # :wave: Welcome to my GitHub!
 ## :relaxed:  I'm extremely glad to see you here!
 #### Everything About Me (or almost) 
-###### :metal: My name is Dmitry and I'm 20. I study in a college in the third course.
+###### :metal: My name is Dmitry and I'm 20.
 I've been doing web-programming for almost 2 years at the moment. I was doing different web-projects.  
 
 :tada: In addition I gotta one more hobby! It is a **learning English language** although my level leaves up to be desired. I'm learning English in parallel with a programming. It is really inspires me! At present I have an Intermediate level. I'm trying to become better and better every day. All my free time is spending only on it. (English and Programming, of course).  
