@@ -4,7 +4,7 @@
 ###### :metal: My name is Dmitry and I'm 20.
 I've been doing web-programming for more than 2 years at the moment. I've been developing different web-projects.  
 
-:tada: In addition I gotta one more hobby! It's **learning English language** although my level leaves up to be desired. I'm learning English in parallel with programming. It really inspires me! I have an Upper-Intermediate level at present. I'm trying to become better and better every day.
+:tada: In addition I gotta one more hobby! It's **learning English language** although my level leaves up to be desired. I learn English in parallel with programming. It really inspires me! I have an Upper-Intermediate level at present. I'm trying to become better and better every day.
 
 :heavy_exclamation_mark: **Necessary look at my profiles in StackOveflow**:  
 https://ru.stackoverflow.com/users/406734/dmitry-allread-return  
