@@ -1,6 +1,6 @@
 # :wave: Welcome to my GitHub!
 ## :relaxed:  I'm extremely glad to see you here!
-#### Everything About Me (or almost) 
+#### Some things about me
 ###### :metal: My name is Dmitry and I'm 20.
 I've been doing web-programming for more than 2 years at the moment. I've been developing different web-projects.  
 
